@@ -1,0 +1,9 @@
+# list shorting in Python
+# we can short the list using k1.sort
+
+k1 = [12,34,45,57,21,86,65,99,32]
+
+k1.sort()
+
+print(k1)
+
