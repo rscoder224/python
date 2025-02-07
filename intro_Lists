@@ -1,0 +1,14 @@
+# using lists in python 
+#  list is a data type im python
+
+fruits = ["apple", "orange", "blueberry" , 45, 435.5, "Shaurya", "Divyanshu"]
+
+fruits.append("kallu")
+
+print(fruits)
+
+
+
+
+
+
