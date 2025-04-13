@@ -1,0 +1,6 @@
+age = 36
+txt = "my name is "
+name = "shaurya"
+num = txt + name
+
+print(num) 
